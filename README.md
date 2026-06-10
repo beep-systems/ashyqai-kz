@@ -1,2 +1,2 @@
 # ashyqai-kz
-Website for ashyqai.lz
+Website for ashyqai.kz
